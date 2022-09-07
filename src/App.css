@@ -1,0 +1,8 @@
+.container {
+  max-width: 650px;
+  padding: 20px 50px;
+  border-radius: 8px;
+  background: linear-gradient(#5b92f1, #f6e881);
+  opacity: 0.9;
+  margin: 80px auto;
+}
