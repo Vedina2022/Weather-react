@@ -1,5 +1,5 @@
 import React from "react";
 
 export default function CurrentWeather() {
-  return `Hello from DailyWeather`;
+  return `Hello from ...`;
 }
